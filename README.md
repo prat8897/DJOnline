@@ -19,3 +19,7 @@ Mouse and keyboard work without a controller (Q/W/A/S for deck A, P/O/K/L for de
 Four built-in synthesized tracks (118–128 BPM) with intro, groove, breakdown and drop sections. **Load file** plays your own audio; BPM and beat position are detected automatically and can be corrected.
 
 Everything is in `index.html`; there is no build step.
+
+## Support
+
+If Cue & Phrase helped you learn, you can [buy me a coffee](https://buymeacoffee.com/prat8897).
